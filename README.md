@@ -4,3 +4,7 @@ Francisco Carvalho
 
 Added .gitignore with the executables files, the git repository structure files and the presets I use in vim.
 
+Invoque the application with:
+python app.py
+If errors occur, please contact the programer!
+
